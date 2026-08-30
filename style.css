@@ -1,4 +1,9 @@
+h1{
+    color:aqua
+}
 div{
+    text-align: center;
+    text-transform: uppercase;
     background-color: #f0f0f0;
     padding: 20px;
     margin: 20px;
